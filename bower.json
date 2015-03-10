@@ -1,0 +1,16 @@
+{
+  "name": "YiLocation",
+  "version": "0.0.1",
+  "authors": [
+    "Steve Zheng <stevezheng1989@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "www.stevezheng.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
